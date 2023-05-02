@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="),c`L(_+P|O{xBTp`O(0" x="0" y="0"></block><block type="device_forever" id="UIW@|bGr=Pquw|K0P?aH" x="566" y="167"></block><block type="device_button_event" id="Ip~h]DxFkVVro[w/BAL-" x="62" y="219"><field name="NAME">Button.A</field></block></xml>
